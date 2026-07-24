@@ -11,7 +11,7 @@ public class R10magaza {
         "Store Code", "Store Name", "Region", "Format", "System Name",
         "IP Address", "Total Register", "Normal Register", "Self Checkout",
         "Cafe Register", "Other Register", "Local Server", "Station"
-        /* burdaki isimler temsilidir
+        /* burdaki isimler temsilidir */
 );
     );
 
