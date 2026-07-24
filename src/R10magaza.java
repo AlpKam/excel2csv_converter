@@ -8,9 +8,11 @@ import java.util.*;
 
 public class R10magaza {
     private static final List<String> HEADERS = Arrays.asList(
-            "Mağaza Kodu", "Mağaza Adı", "Bölge", "Format", "Unix Name",
-            "Vlan41 IP", "Toplam R10 Kasa", "Normal Kasa", "Jet Kasa",
-            "Cafe Kasa", "DK Kasa", "Store Server", "Rap Station"
+        "Store Code", "Store Name", "Region", "Format", "System Name",
+        "IP Address", "Total Register", "Normal Register", "Self Checkout",
+        "Cafe Register", "Other Register", "Local Server", "Station"
+        /* burdaki isimler temsilidir
+);
     );
 
     public static void main(String[] args) {
